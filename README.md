@@ -1,17 +1,32 @@
-### Hi there 👋
+### Oi, eu sou João Vitor da Silva Costa 👋
+Sou um estudante de Técnico em Informática com o objetivo de me tornar um Desenvolvedor Front-end.
+Estou interessado em criar sites e aplicativos interativos usando tecnologias como JavaScript, HTML5 e CSS3.
 
-<!--
-**JoaoVitordaSilvaCosta/JoaoVitordaSilvaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Habilidades:
 
-Here are some ideas to get you started:
+JavaScript;
+HTML5;
+CSS3;
+Angular;
+React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projetos:
+
+Página pessoal 
+- Criei uma página pessoal responsiva usando HTML5, CSS3 e JavaScript.
+
+Aplicativo de lista de tarefas 
+- Desenvolvi um aplicativo de lista de tarefas usando React e Redux.
+
+
+Contato:
+
+E-mail: joao1tech2@gmail.com
+
+
+
+
+
+Estou sempre buscando aprender e crescer como desenvolvedor.                                                                                                                   
+Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou quiser colaborar.
 
