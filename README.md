@@ -2,8 +2,6 @@
 Sou um estudante de Técnico em Informática com o objetivo de me tornar um Desenvolvedor Front-end.
 Estou interessado em criar sites e aplicativos interativos usando tecnologias como JavaScript, HTML5 e CSS3.
 
-## Hi there, I'm OTAIMER 2.0 👋
-
 - 🔭 I’m currently working on Full-Stack
 - 🌱 I’m currently learning Full-Stack stack
 - 👯 I’m looking to collaborate on Full-Stack projects
