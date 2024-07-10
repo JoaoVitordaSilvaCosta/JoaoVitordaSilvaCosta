@@ -5,7 +5,7 @@ Estou interessado em criar sites e aplicativos interativos usando tecnologias co
 ## Hi there, I'm OTAIMER 2.0 👋
 
 - 🔭 I’m currently working on Full-Stack
-- 🌱 I’m currently learning M.E.R.N stack
+- 🌱 I’m currently learning Full-Stack stack
 - 👯 I’m looking to collaborate on Full-Stack projects
 - 😄 Pronouns: he/him
 
@@ -42,7 +42,9 @@ Estou interessado em criar sites e aplicativos interativos usando tecnologias co
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paulo-gabriel-c-j%C3%BAnior-343a65222/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/
+joão-vitor-65301a296
+)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/otaimer_dev/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@OTAIMER_DEV)
 
