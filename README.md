@@ -62,6 +62,6 @@ I’m interested in creating interactive websites and applications using technol
 
 ### 🌟 Quote
 
-_"A única maneira de fazer um ótimo trabalho é amar o que você faz."_ - Steve Jobs
+_"Seja um parâmetro de qualidade. Algumas pessoas não estão acostumadas a um ambiente onde a excelência é esperada"_ - Steve Jobs
 
 
