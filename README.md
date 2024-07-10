@@ -5,7 +5,7 @@ I’m interested in creating interactive websites and applications using technol
 - 🔭 I’m currently working on...
 - 🌱 I’m currently learning Full-Stack stack Development
 - 👯 I’m looking to collaborate on Full-Stack projects
-- 😄 Pronouns: he/him
+
 
 <table>
   <tr style="border: none;">
