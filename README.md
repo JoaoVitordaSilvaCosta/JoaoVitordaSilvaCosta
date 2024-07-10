@@ -2,8 +2,8 @@
 I’m a student of Computer Technician with the goal of becoming a Full-Stack Developer.
 I’m interested in creating interactive websites and applications using technologies like JavaScript, HTML5, and CSS3
 
-- 🔭 I’m currently working on Full-Stack
-- 🌱 I’m currently learning Full-Stack stack
+- 🔭 I’m currently working on...
+- 🌱 I’m currently learning Full-Stack stack Development
 - 👯 I’m looking to collaborate on Full-Stack projects
 - 😄 Pronouns: he/him
 
