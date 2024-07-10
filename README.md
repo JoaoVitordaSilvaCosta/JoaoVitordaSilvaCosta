@@ -1,6 +1,6 @@
-### Oi, eu sou João Vitor da Silva Costa 👋
-Sou um estudante de Técnico em Informática com o objetivo de me tornar um Desenvolvedor Front-end.
-Estou interessado em criar sites e aplicativos interativos usando tecnologias como JavaScript, HTML5 e CSS3.
+### Hi, I’m João Vitor da Silva Costa 👋 
+I’m a student of Computer Technician with the goal of becoming a Full-Stack Developer.
+I’m interested in creating interactive websites and applications using technologies like JavaScript, HTML5, and CSS3
 
 - 🔭 I’m currently working on Full-Stack
 - 🌱 I’m currently learning Full-Stack stack
@@ -42,8 +42,8 @@ Estou interessado em criar sites e aplicativos interativos usando tecnologias co
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/feed/?trk=nav_back_to_linkedin
 )
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/otaimer_dev/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@OTAIMER_DEV)
+
+
 
 ### 🛠️ Skills
 
