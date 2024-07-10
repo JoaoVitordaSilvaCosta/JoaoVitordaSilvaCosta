@@ -66,4 +66,4 @@ Estou interessado em criar sites e aplicativos interativos usando tecnologias co
 
 _"A única maneira de fazer um ótimo trabalho é amar o que você faz."_ - Steve Jobs
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=OTAIMER20.OTAIMER20)
+
