@@ -1,5 +1,5 @@
 ### Hi, I’m João Vitor da Silva Costa 👋 
-I’m a student of Computer Technician with the goal of becoming a Full-Stack Developer.
+I’m a student of Computer Technician with the goal of becoming a Front-End Developer.
 I’m interested in creating interactive websites and applications using technologies like JavaScript, HTML5, and CSS3
 
 - 🔭 I’m currently working on...
