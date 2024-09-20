@@ -3,8 +3,8 @@ I’m a student of Computer Technician with the goal of becoming a Front-End Dev
 I’m interested in creating interactive websites and applications using technologies like JavaScript, HTML5, and CSS3
 
 - 🔭 I’m currently working on...
-- 🌱 I’m currently learning Full-Stack stack Development
-- 👯 I’m looking to collaborate on Full-Stack projects
+- 🌱 I’m currently learning Front-End Development
+- 👯 I’m looking to collaborate on Front-End projects
 
 
 <table>
