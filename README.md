@@ -40,7 +40,7 @@ I’m interested in creating interactive websites and applications using technol
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/feed/?trk=nav_back_to_linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/joão-vitor-65301a296)
 
 
 
