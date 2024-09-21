@@ -1,10 +1,14 @@
-### Hi, I’m João Vitor da Silva Costa 👋 
-I’m a student of Computer Technician with the goal of becoming a Front-End Developer.
-I’m interested in creating interactive websites and applications using technologies like JavaScript, HTML5, and CSS3
+### Olá,Eu sou João Vitor 👋 
+Sou estudante de Técnico em Informática com o objetivo de me tornar um desenvolvedor Front-End.
+Eu estou interessado em criar websites interativos e aplicações utilizando tecnologias como JavaScript,  HTML5,  e CSS3.
 
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning Front-End Development
-- 👯 I’m looking to collaborate on Front-End projects
+- 🔭 Eu estou atualmentetrabalhando em...
+- 🌱 Eu estou aprendendo atuamente Desenvolvimento Front-End...
+- 👥️ Estou buscando colaborar em projetos de Front-End.
+
+
+
+I’m looking to collaborate on Front-End projects
 
 
 <table>
