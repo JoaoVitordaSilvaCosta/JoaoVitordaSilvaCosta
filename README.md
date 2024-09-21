@@ -5,7 +5,7 @@ Eu estou interessado em criar websites interativos e aplicações utilizando tec
 
 - 🔭 Eu estou atualmente trabalhando em...
 - 🌱 Eu estou aprendendo atuamente Desenvolvimento Front-End...
-- 👥️ Estou buscando colaborar em projetos de Front-End.
+- 👥️ Estou buscando colaborar em projetos de Front-End..
 
 
 
