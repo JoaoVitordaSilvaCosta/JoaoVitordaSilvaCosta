@@ -1,5 +1,6 @@
 ### Olá, Eu sou João Vitor 👋 
 Sou estudante de Técnico em Informática com o objetivo de me tornar um desenvolvedor Front-End.
+
 Eu estou interessado em criar websites interativos e aplicações utilizando tecnologias como JavaScript,  HTML5,  e CSS3.
 
 - 🔭 Eu estou atualmentetrabalhando em...
